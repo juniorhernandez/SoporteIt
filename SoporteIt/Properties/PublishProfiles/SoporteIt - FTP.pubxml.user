@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXBq7hwqaeUmNLhTxpJwU7gAAAAACAAAAAAAQZgAAAAEAACAAAABEaiKNqzpyIX13ensWs88ZRlNnrUHCSbSV3n+rbl8sJwAAAAAOgAAAAAIAACAAAAACZ2r826oIzKsOiE+rRX/vhbS5hD7F6oOMjFrXaUWJ5IAAAABvkrMcoC+23QV+eGDe7/LfGDZ8qAG6ingOBk/yWJ3dm6O7lRSZl5/uVfcfMVu544Owsjh4aMDCKMqwyVBOez1XEHXtpVL5SnLKvRklkWkCJsGcPgEznulls/y+6Jbcg01pOUI7/2BBAunlCn/3/Y5T7zl+AnC/vU9O1ES9lMLZ30AAAADBM1W+A0/jgk+ZVH7kbSoFfwLv975tTbYFrxE/gLaq/8rk94wrjCnj5FP3qwthfNnkRy1MLrxIaNZTNxps0zMM</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-dm1-241.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/02/2022 15:09:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
